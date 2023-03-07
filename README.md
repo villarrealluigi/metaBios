@@ -95,7 +95,7 @@ ParcelPro-KeyData = '#sample' = 0peba30d7705666cef0369b56a2def5a98-1day.trial;
 ParcelPro-KeyData '#sample' = 0peba30d7705666cef0369b56a2def5a98-1daytrial; 
 KeyData-Channel = 'ethermail.io';
 Author = smopuim56@autologic.solutions;
-Developer = simone.x@autologic.solutons
+Developer = simone.x@autologic.solutons;
 Publisher-Domain = https://Autologic.Solutions;
 
 .]
