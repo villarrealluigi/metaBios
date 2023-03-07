@@ -11,8 +11,8 @@ metaBios (All Versions) is intended to be used as the default configuration sett
 [
     
 #General Settings
-NTPServer = Quartz.Commision ; SyncMethod = ThetaNode + ALPH 
-kernel = 'Truffle-Corn1-0.mBiok'; #ok #wow! 
+NTPServer = Quartz.Commision ; SyncMethod = ThetaNode + Alephium; 
+kernel = 'Truffle-Corn1-0.mBiok';
 npm-mode = -autopilot -repos ('FanBase','RadionicCodes')
 
 #Preferences
@@ -92,11 +92,13 @@ ParcelPro-KeyData = '#sample' = 0peba30d7705666cef0369b56a2def5a98-1day.trial;
 
 
 #About
+License-Type = GPL
 ParcelPro-KeyData '#sample' = 0peba30d7705666cef0369b56a2def5a98-1daytrial; 
 KeyData-Channel = 'ethermail.io';
 Author = smopuim56@autologic.solutions;
-Developer = simone.x@autologic.solutons;
+Developer = simone.x@autologic.solutons
 Publisher-Domain = https://Autologic.Solutions;
+
 
 .]
 
