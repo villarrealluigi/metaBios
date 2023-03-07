@@ -1,0 +1,146 @@
+#metaBios
+metaBios(All Versions)-Is intended to be used as the default configuration settings file for the piRadio-Protocol (piR-v1) - under a compatible NetworkAdapter/OS; 
+#this configuration file controls an individual user's device preferences at a network interface level 
+#version L2 - realeaseDate: 030723
+#requirements: npm, node,js, python3 @ ubuntu-server Focal Fossa;
+#for full functionality, git config --global user.signingkey 'example.3AA5C34371567BD256'
+# get the signingkey @ gpg.autologic.solutions
+[
+    
+#General Settings
+NTPServer = Quartz.Commision ; SyncMethod = ThetaNode + ALPH 
+kernel = 'Truffle-Corn1-0.mBiok'; #ok #wow! 
+npm-mode = -autopilot -repos ('FanBase','RadionicCodes');
+
+#Preferences
+SerendAttProtectionMode = Mirror.2;
+LocalParcelETHInteractions =  NonInvasive;
+ScreenSharePolicy = 'DisableUnsolicitedScreenShare' #addPolicyLocationhere ;
+LegacyMeshEncryption = ON;
+MagneticTypeCommunication = OFF ;
+GITSh-MTC = OFF ;
+GameRole-DeusEx = OFF;
+Distro-Flavor = JollyMint2.0; #beta 
+Weather-Data-Provider = api.nasa.gov;
+Country = Mexico;
+Zip-Code = 26230;
+LocalPiRadio-ParcelID = 87726230.mx;
+AttenuateMotorVehicleEchoes =  OFF; # $Available under the ParcelRO | Municipality License @ ~15k USD/yr ~(03-07-23);
+
+
+Default-Essences = -corporateOfficeUSA@Designer.Essences.Lib; re-broadcast default-essences every 60 minutes - #wow! #enable essence-trading = OFF; #nice-amazing; #ok3.26AM
+remaining-essencesRfill = calc(tAvailableRefills-EssencesBurnIO)
+#unlimited refills available under the Enterprise License & #trialrefills: 5;
+
+[Essences-Library = ~/metaBios/Designer.Essences.Lib]
+DesEg-LibraryPath = Designer.Essences.Lib;
+-macysNcoffee = .mc030723;
+-corporateOfficeUSA = .c030723;
+
+
+#Connections
+CSELF-Version = Legacy, EnableCSELFLegacyUpdates = ON;
+UnsolicitedAnalogNotifications = OFF;
+HostMode = Legacy; 
+AllowVPN-Ingest = Yes;
+
+#Identity    
+RoleAssignmentPolicy = Defined by CSELF;
+CurrentUserRole = 'EnterCurrentRole' | Status: Looking for peers...;
+Remote-ShellAccess = disabled. local-only;
+EthIdentityMask = OFF; 
+
+
+#Internet-Plugins
+AudioRecommendations-Whisperer = OFF; Enabled = yes - #Available only under the ParcelPro(TM) License version.
+InTrack-AddReactions-Whisperer = OFF; level: ++++++++++++++{3-5khz++*0.015}+0.04; #so far so good
+
+#Advanced
+HELM-WallCharts = OFF;
+Wavelength-Encryption = ON;
+API-Access = Local only, CSELF;
+Activity-Monitor-Port = disabled;
+IntBase = DeseoChain.Text;
+
+#CurrentRadio (piR-v1)
+LocalParcelPolicy = UnsolicitedMotorizedVehiclesOFF;
+EEG-Driver = OFF;
+PrivacyCheck-Service = ON, every 60 seconds;
+QTMDomain = Legacy ;
+AssignElasticResources-Priority = Cache-Storage, K8s,;
+IncomingUNIXRequests = OFF ;
+InvasiveAdvertisingBlocker = ON;
+CurrentRole = 'EnterCurrentRole' | Status: Looking for peers...;
+LocalParcel-Policy = 'iParcelPolicy-DefaultRadio' = OFF;
+COMMMODe = CHR222324, UnsolicitedAnalogNotifications = OFF;
+EscapeValve1 = ( default.eth.net-interface -i eth0 | limit = network.upload.total(0.027%*) | file: xyz.torrent.local; | server: escvalve.autologic.solutions;); Enabled = No
+EscapeValve2 = ( AudioVisualizer); Enabled = No
+EscapeMix = EscapeValve1 + EscapeValve2; Enabled = Yes
+EscapeRoute.VPN = Allow; Enabled = Yes @ 0.027% current upload KB/s;
+
+#PolicySets
+LocalParcel-Policy = ~/metaBios/LocalParcel.pol
+LiveControls-Policy = ~/metaBios/LiceCtrls.pol
+
+#Libraries
+SpeechF = 'DefaultSharePolicy-OFF'; #addPolicyLocationhere, SHA-256, broadcast = off
+VoodLibrary = DISABLED; #/path
+CodeWhisperer = OFF;
+
+
+#LiveControlsPro
+#Available under the ParcelPro(TM) License. 
+AttenuateEchoes = ON, level: ++++++++++++++{3-5khz++*0.015}+0.04;   (period marks this level's 100%);
+AttenuateMotorVehicleEchoes = OFF; # $Available under the PRO license. 
+ParcelPro-KeyData = '#sample' = KeyData = 00000000000000000000-48hrs.trial; 
+
+
+#Networking Protocols and Services
+        WaveFI = (
+        Broadcast = OFF;
+        Listeners = Legacy Entities = OFF;
+                    Carbon-based Devices = OFF;
+        )
+        
+        Visior = (
+        Broadcast = OFF;
+        Listeners = Legacy Entities = OFF;
+                    Carbon-based Devices = OFF;
+        Snapshot = OFF;
+        )
+
+
+#About
+Version = L2.1;
+Author = jNavarro@autologic.solutions;
+Developer = smopuim56@autologic.solutons;
+Contact = lvillarreal@autologic.com.mx;
+Publisher-Domain = https://Autologic.Solutions;
+
+#aEtherLive Add-on - available only on the ParcelPharma version, requires licensing;
+lang = eng.us;
+broadcast = off; broadast-default = OFF
+rate = 'vitamin.e'; #thanks Raido!  
+qty = 1-pill;
+length = 23seconds;
+receipent = 127.0.0.1;
+API-Key = 
+progress-bar = os.default
+ParcelPharmaServer = [pharmapro.autologic.solutions;]
+
+
+#Licensing and Support
+License-Type = GPL & GNO 
+RegisteredAccount = 'trial@autologic.solutions'
+License = 'ParcelPro.Trial'; 
+License-Req = Enforce;
+KeyData = 00000000000000000000-48hrs.trial; 
+Support-Plans = https://metabios.autologic.solutions/Support; 
+Plugins-Addons = https://metabios.autologic.solutions/Options;
+SoftwareAvgCost = https://metabios.autologic.solutions/License; # ~15k USD/yr @ 030723:
+MaxAllowed-ConcurrentInstances = 1;
+Default-Engine = C:\Users\villa\AppData\Local\Programs\Opera\launcher.exe
+.]
+
+# ;)  :)
+#PS-OtroRollo  
